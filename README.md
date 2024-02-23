@@ -37,7 +37,7 @@
 
 - 💬 Ask me about anything and everything!
 - 📄  Brainstorm with me over tech, algorithms, career, and music.
-- ⚡  Checkout my [resume](https://drive.google.com/file/d/10qwEHWyg_Gap8lo7muoMfwThq5xR0uMq/view?usp=drive_link)
+- ⚡  Checkout my [resume](https://drive.google.com/file/d/1DxdjHuHC9HHFIBExxgHrRgsWj3DxZcxZ/view?usp=drive_link)
 - 💬 Ping Me about #DSA, #Algorithms, #Coding, #Space, #Games and anything you like
 - 📫 How to reach me: message me at [LinkedIn](https://www.linkedin.com/in/shivansh-agarwal7/)
 
